@@ -1,3 +1,3 @@
 See instructions at
 
-https://cseweb.ucsd.edu/~jpolitz/cse131-a-stage/n_ocaml-intro.html
+https://ucsd-cse131-s18.github.io/pa0/
