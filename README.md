@@ -1,3 +1,3 @@
 See instructions at
 
-https://ucsd-cse131-s18.github.io/pa0/
+https://ucsd-cse131-f19.github.io/pa0/
